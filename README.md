@@ -6,6 +6,9 @@ However, since the available Carmy user reviews are too less to create a robust 
 * First, I wrote a [new crawler](https://github.com/Lanwei02/cars.com-sentiment-analysis_2/blob/master/car_scrapper.ipynb) with python which could scrap the star, review, review date and review area of the selected car (make, model and year). The package I used in this file is beautifulsoup. I also updated the [crawler written by R](https://github.com/Lanwei02/cars.com-sentiment-analysis_2/blob/master/CARS_CRAWLER.R) since there are some changes to the website which made the original crawler does not work well.
 
 
+
+Plan:
+
 1. simple supervised algorithm: knn, logistic regression....
 2. Neural network...
 3. PCA reducing dimension...
