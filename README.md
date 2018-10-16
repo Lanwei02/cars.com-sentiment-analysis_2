@@ -23,3 +23,4 @@ References:
 * Data preprocessing for neural network: [Simple LSTM for text classification](https://www.kaggle.com/kredy10/simple-lstm-for-text-classification)
 * Visualization: [Another Twitter sentiment analysis with Python-Part 2](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-2-333514854913)
 * KNN for sentiment analysis: [KNN: Amazon Fine Food Reviews data set](https://www.kaggle.com/jitendras/knn-amazon-fine-food-reviews-data-set)
+* Data preprocessing for deep learning: [How to Prepare Text Data for Deep Learning with Keras](https://machinelearningmastery.com/prepare-text-data-deep-learning-keras/)
