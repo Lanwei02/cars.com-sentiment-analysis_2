@@ -9,8 +9,8 @@ However, since the available Carmy user reviews are too less to create a robust 
 
 Plan:
 
-1. simple supervised algorithm: knn, logistic regression....
-2. Neural network...
+1. simple supervised algorithm: knn, logistic regression.... (DONE)
+2. Neural network...(DONE)
 3. PCA reducing dimension...
 4. sentiment score for each word
 5. may be try some other preprocessing method(still considering, depend on the time) like Doc2Vec coz this may create a smaller dimension dataset than tfidf or countvestor
@@ -24,3 +24,5 @@ References:
 * Visualization: [Another Twitter sentiment analysis with Python-Part 2](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-2-333514854913)
 * KNN for sentiment analysis: [KNN: Amazon Fine Food Reviews data set](https://www.kaggle.com/jitendras/knn-amazon-fine-food-reviews-data-set)
 * Data preprocessing for deep learning: [How to Prepare Text Data for Deep Learning with Keras](https://machinelearningmastery.com/prepare-text-data-deep-learning-keras/)
+* [Minimal LSTM + NB-SVM baseline ensemble](https://www.kaggle.com/jhoward/minimal-lstm-nb-svm-baseline-ensemble)
+* [Improved LSTM baseline: GloVe + dropout](https://www.kaggle.com/jhoward/improved-lstm-baseline-glove-dropout)
