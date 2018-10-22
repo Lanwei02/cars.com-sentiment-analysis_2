@@ -26,3 +26,5 @@ References:
 * Data preprocessing for deep learning: [How to Prepare Text Data for Deep Learning with Keras](https://machinelearningmastery.com/prepare-text-data-deep-learning-keras/)
 * [Minimal LSTM + NB-SVM baseline ensemble](https://www.kaggle.com/jhoward/minimal-lstm-nb-svm-baseline-ensemble)
 * [Improved LSTM baseline: GloVe + dropout](https://www.kaggle.com/jhoward/improved-lstm-baseline-glove-dropout)
+* [How to classify emails using deep neural networks after generating TF-IDF](https://hub.packtpub.com/classify-emails-using-deep-neural-networks-generating-tf-idf/)
+* [How do you apply SMOTE on text classification?](https://datascience.stackexchange.com/questions/27671/how-do-you-apply-smote-on-text-classification)
