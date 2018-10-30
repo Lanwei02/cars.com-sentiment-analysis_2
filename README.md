@@ -6,17 +6,6 @@ However, since the available Carmy user reviews are too less to create a robust 
 * First, I wrote a [new crawler](https://github.com/Lanwei02/cars.com-sentiment-analysis_2/blob/master/car_scrapper.ipynb) with python which could scrap the star, review, review date and review area of the selected car (make, model and year). The package I used in this file is beautifulsoup. I also updated the [crawler written by R](https://github.com/Lanwei02/cars.com-sentiment-analysis_2/blob/master/CARS_CRAWLER.R) since there are some changes to the website which made the original crawler does not work well.
 
 
-
-Plan:
-
-1. simple supervised algorithm: knn, logistic regression.... (DONE)
-2. Neural network...(DONE)
-3. PCA reducing dimension...
-4. sentiment score for each word
-5. may be try some other preprocessing method(still considering, depend on the time) like Doc2Vec coz this may create a smaller dimension dataset than tfidf or countvestor
-
-
-
 References:
 * Neural Network: [Sentiment Analysis And Kmeans/LSTM](https://www.kaggle.com/rahulvks/sentiment-analysis-and-kmeans-lstm)
 * Employ PCA to reduce dimension: [Another Twitter sentiment analysis with Python — Part 8 (Dimensionality reduction: Chi2, PCA)](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-8-dimensionality-reduction-chi2-pca-c6d06fb3fcf3)
