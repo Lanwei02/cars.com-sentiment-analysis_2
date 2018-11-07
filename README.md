@@ -18,3 +18,5 @@ References:
 * [How to classify emails using deep neural networks after generating TF-IDF](https://hub.packtpub.com/classify-emails-using-deep-neural-networks-generating-tf-idf/)
 * [How do you apply SMOTE on text classification?](https://datascience.stackexchange.com/questions/27671/how-do-you-apply-smote-on-text-classification)
 * Usage [Applying Customer Feedback: How NLP & Deep Learning Improve Uber’s Maps](https://eng.uber.com/nlp-deep-learning-uber-maps/)
+* Doc2Vec toturial[Doc2vec tutorial](https://rare-technologies.com/doc2vec-tutorial/)
+* Doc2Vec toturial 2[Doc2Vec tutorial using Gensim](https://medium.com/@klintcho/doc2vec-tutorial-using-gensim-ab3ac03d3a1)
