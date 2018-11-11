@@ -20,3 +20,7 @@ References:
 * Usage [Applying Customer Feedback: How NLP & Deep Learning Improve Uber’s Maps](https://eng.uber.com/nlp-deep-learning-uber-maps/)
 * Doc2Vec toturial[Doc2vec tutorial](https://rare-technologies.com/doc2vec-tutorial/)
 * Doc2Vec toturial 2[Doc2Vec tutorial using Gensim](https://medium.com/@klintcho/doc2vec-tutorial-using-gensim-ab3ac03d3a1)
+* Topic Modeling [Beginners Guide to Topic Modeling in Python](https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/)
+* Topic modeling and visualize with pyLDAvis[Topic Modelling in Python with NLTK and Gensim](https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21)
+* Topic modeling with Gensim [Topic Modeling with Gensim (Python)](https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/)
+* Applying grid search to get the best topic model(Scikit Learn)[LDA in Python – How to grid search best topic models?](https://www.machinelearningplus.com/nlp/topic-modeling-python-sklearn-examples/)
