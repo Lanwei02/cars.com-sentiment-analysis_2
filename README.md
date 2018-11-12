@@ -4,7 +4,8 @@ This project is an upgrade of my previouse [project analyzed Toyota Camry(2012-2
 However, since the available Carmy user reviews are too less to create a robust sentiment classifier, the accuracy of the model is very low. So I wanted to improve this project by expanding the review data range from Toyota Camry to several popular sedans in the US car market and fine-tuned pipeline combined by different text vectorized methods and machine learning algorithms to build a better sentiment classifier and also explore more insights from the review data.
 
 * First, I wrote a [new crawler](https://github.com/Lanwei02/cars.com-sentiment-analysis_2/blob/master/car_scrapper.ipynb) with python which could scrap the star, review, review date and review area of the selected car (make, model and year). The package I used in this file is beautifulsoup. I also updated the [crawler written by R](https://github.com/Lanwei02/cars.com-sentiment-analysis_2/blob/master/CARS_CRAWLER.R) since there are some changes to the website which made the original crawler does not work well.
-
+* I employed both 
+* Finally, I applied bag-of-word approach and LDA (Latent Dirichlet Allocation) to extract 8 dominant topics of the reviews and assigned the main topic of each review. I also used pyLDAvis package to visualize the final optimized model. 
 
 References:
 * Neural Network: [Sentiment Analysis And Kmeans/LSTM](https://www.kaggle.com/rahulvks/sentiment-analysis-and-kmeans-lstm)
